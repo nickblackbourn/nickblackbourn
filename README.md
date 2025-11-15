@@ -1,17 +1,14 @@
 ## 👋 Hi, I'm Nick
 
-I'm Head of Process Intelligence (UK) at Capgemini Invent, specialising in the intersection of **process mining**, **data engineering**, and emerging **AI-Ops** patterns.
+Head of Process Intelligence (UK) at Capgemini Invent.
 
-My GitHub is where I explore practical, lightweight examples of:
-
-- transforming raw operational data into event logs,
-- building mini-tools and scripts to accelerate analysis,
-- experimenting with how AI can support (not replace) process intelligence.
+I work at the intersection of **process mining**, **event-log engineering**, **data pipelines**, and emerging **AI-Ops patterns**. This GitHub is where I build practical tools, worked examples, and lightweight prototypes that turn operational data into something organisations can learn from — and act on.
 
 ### 🔧 Featured Work
 
-- **NFL Process Mining** – a worked example converting NFL play-by-play data into a structured process mining event log using SQL + Python.
-- **Synthetic Event Log Generator** – a configurable Python tool for creating synthetic event logs for demos, training, and experimentation.
-- *(More PI × AI-Ops experiments coming soon.)*
+- **NFL Process Mining** – a hands-on worked example turning NFL play-by-play data into a structured event log using SQL + Python.  
+- **Synthetic Event Log Generator** – a configurable tool for generating realistic event logs for demos, training, and prototyping.  
+- **PI Data Assessment Assistant** – an early-stage experiment in automating raw data readiness checks for process mining projects.
 
-If you're interested in process intelligence, event logs, or AI-enabled operations, feel free to connect.
+If you’re exploring modern process intelligence, event-log engineering, or how AI can augment PI workflows, feel free to connect.
+
